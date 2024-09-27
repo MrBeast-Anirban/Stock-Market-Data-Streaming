@@ -1,8 +1,8 @@
 - Create an EC2 Instance
-- 
+  
 - Create a Key pair and download it and save it in the project directory
-	Key-pair = Kafka-stock-market-
-	Instance name = Kafka-stock-market-
+	- Key-pair = Kafka-stock-market- (different for different)
+	- Instance name = Kafka-stock-market-  (different for different)
 
 - To connect EC2 instance to local terminal
 	- Navigate to key pair folder
@@ -82,6 +82,6 @@
 	- Enter Secret Access Key from csv file
 	- Enter region or just hit enter
 
-- Upload data to S3 in the form of Events
+- Upload Events to S3 Bucket
 
 
