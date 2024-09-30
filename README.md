@@ -1,8 +1,8 @@
 - Create an EC2 Instance
   
 - Create a Key pair and download it and save it in the project directory
-	- Key-pair = Kafka-stock-market- (different for different)
-	- Instance name = Kafka-stock-market-  (different for different)
+	- Key-pair = something-something (different for different)
+	- Instance name = something-something  (different for different)
 
 - To connect EC2 instance to local terminal
 	- Navigate to key pair folder
